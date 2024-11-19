@@ -1,1 +1,3 @@
 this is a change made to file 1 in the GMCGIT FOLDER
+
+A change is made here through git branch not master
